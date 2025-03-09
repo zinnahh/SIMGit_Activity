@@ -1,1 +1,13 @@
 Hello,Git! 
+
+ORTIZ, ZYNNAH MARIE G.
+CS3C 
+
+1. What challenges did you face during this activity?
+- I'm still having some confusion regarding the starting point of the activity. I've requested assistance from Gemini to help me understand.
+
+2. Which Git command was the most confusing
+- The git add hello command does not execute the hello file, even though I added it to my folder. So what I did is prompting the echo command and add the file. 
+
+3. How can version control help in real-world software development?
+- It helps team collaboration by managing conflicts and modifications. Also, it allows easy reversion. 
